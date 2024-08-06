@@ -42,10 +42,8 @@
 **How to Reach Me:**
 - abrahamtheanalyst2004@gmail.com
 - https://wa.me/qr/Y7NTRO7LIDNBI1 via Whatsapp
-- 
+- https://t.me/Abramz42 via Telegram
 
-**Pronouns:**
-- [Your Pronouns]
 
 **Fun Fact:**
-- I'm a psycho when it comes to data science!
+- Data Science drive me crazy!
