@@ -46,4 +46,4 @@
 
 
 **Fun Fact:**
-- Data Science drive me crazy!
+- Data Science drives me crazy!
