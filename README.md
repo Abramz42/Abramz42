@@ -29,9 +29,9 @@
 
 -**Tableau Projects:** https://public.tableau.com/app/profile/ademola.abraham
 
--**Excel Projects:** 
+-**Excel Projects:** https://github.com/Abramz42/Excel-Data-Analysis-Projects
 
--**Python Data Analysis Project:** Check out the other repositories!
+-**Python Data Analysis Projects:** Check out the other repositories below!
 
 **Tools and Technologies:**
 - **Python**
