@@ -27,6 +27,9 @@
 - **Salary Trends of Computer Professions:** Explored salary trends and job market dynamics for computer professionals.
 - etc.
 
+**Tableau Projects:** https://public.tableau.com/app/profile/ademola.abraham
+**Excel Projects:** 
+**Python Data Analysis Project:** Check out the other repositories!
 
 **Tools and Technologies:**
 - **Python**
