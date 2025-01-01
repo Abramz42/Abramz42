@@ -6,7 +6,7 @@ Hi there! I'm **Ademola Abraham**, an experienced **Data Analyst** passionate ab
 - **Data Exploration and Analysis:** Uncovering insights and trends to drive informed decision-making.  
 - **Data Querying:** Resolving complex dataset queries to extract valuable information.  
 - **Data Visualization:** Crafting intuitive dashboards and reports to effectively communicate findings.  
-- **Statistical Analysis:** Performing key metric calculations, including means, standard deviations, and other statistical measures.  
+- **Statistical Analysis:** Performing key metric calculations, including means, standard deviations and other statistical measures.  
 - **Predictive Modeling:** Building regression models for forecasting and predictive insights.  
 
 ### My Approach  
@@ -26,7 +26,7 @@ I’ve had the privilege of working on diverse projects, including **restaurant 
 My ability to work effectively in team environments ensures I can seamlessly integrate into projects, share knowledge, and contribute to achieving collective success.  
 
 ### Tools and Technologies  
-- **Python** for data analysis, automation, and reporting.  
+- **Python** for data analysis, automation and reporting in Jupyter Notebook.  
 - **Tableau** for creating interactive dashboards and visual data storytelling.  
 - **Microsoft Excel** for advanced analysis and professional reporting.  
 
