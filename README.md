@@ -33,7 +33,7 @@ My ability to work effectively in team environments ensures I can seamlessly int
 ### Portfolio  
 - [**Tableau Dashboards**](https://public.tableau.com/app/profile/ademola.abraham)  
 - [**Excel Projects**](https://github.com/Abramz42/Excel-Data-Analysis-Projects)
-- [**Python Projects**](Explore Repositories Below)  
+- **Python Projects**: Explore Repositories Below 👇
 
 ### Let's Connect!  
 - [**LinkedIn**](http://www.linkedin.com/in/abraham-ademola-8b2984295)  
