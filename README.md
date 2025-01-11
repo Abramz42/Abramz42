@@ -41,4 +41,4 @@ My ability to work effectively in team environments ensures I can seamlessly int
 - [**WhatsApp**](https://wa.me/qr/EZGDLE6SMUQID1)  
 
 ### Fun Fact  
-I have a deep love for data—refined or raw. Whether it’s uncovering hidden patterns, crafting stunning visualizations, or exploring new datasets, I’m always excited to dive in and learn more!  
+I have a deep love for data, refined or raw. Whether it’s uncovering hidden patterns, crafting stunning visualizations or exploring new datasets, I’m always excited to dive in and learn more!  
