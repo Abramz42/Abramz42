@@ -1,8 +1,9 @@
-# Hi, I'm Ademola Abraham 👋
+# Hi
 
-I'm a **Data Analyst** who enjoys turning business data into clear insights that make performance easier to understand and opportunities easier to spot.
+I'm Ademola Abraham, a Data Analyst drawn to the questions behind business performance.
+I work with sales, customer and operational data to investigate what is happening, understand the factors behind it and communicate the findings clearly.
 
-My work focuses on **business performance, sales, customer behavior and trends**, with projects built around real-world datasets and practical business questions.
+My projects span different industries and datasets, each built to examine a specific problem or area of performance.
 
 I use **Python, SQL, Excel and Tableau** to analyze data and communicate findings through dashboards, reports, and visualizations.
 
@@ -10,7 +11,7 @@ I use **Python, SQL, Excel and Tableau** to analyze data and communicate finding
 
 This profile is a collection of my data analysis projects, covering different datasets, business questions and analytical approaches.
 
-You'll find projects exploring areas such as **sales performance, customer behavior, product performance and business trends**, along with the dashboards, analysis and reports built from them.
+From exploratory analysis to interactive dashboards, each project presents a business problem, the analysis behind it and the findings that emerge from it.
 
 ### Featured Work
 
